@@ -1,0 +1,57 @@
+# Contributing to Nightly Sky
+
+Thanks for taking the time to contribute — you’re awesome! Any help improving the project is appreciated.
+
+---
+
+## How to Contribute
+
+1. **Fork** this repository.
+2. **Clone** your fork:
+   ```bash
+   git clone https://github.com/TheAhumMaitra/Nightly-sky-landing-page
+   cd nightly-sky
+   ```
+3. **Create a branch** for your change:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. **Make your changes** (code, docs, fixes).
+5. **Commit** with a clear message:
+   ```bash
+   git commit -m "feat: short description of change"
+   ```
+6. **Push** your branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+7. **Open a Pull Request** from your fork to the main repo. Add context and screenshots if relevant.
+
+---
+
+## Guidelines
+
+- Keep PRs focused and reasonably small.
+- Follow existing code style and naming.
+- Document user-facing changes.
+- Add comments where clarity helps.
+- Be respectful and kind in discussions.
+
+---
+
+## Reporting Issues / Ideas
+
+- Found a bug? Open an **Issue** with steps to reproduce.
+- Have a feature idea? Open an **Issue** and describe the use case.
+
+---
+
+## Development Tips
+
+- Run the dev server with `npm run dev`.
+- If you add UI, check light/dark/theme variants.
+- Test responsiveness (mobile/tablet/desktop).
+
+---
+
+Thanks again for helping make **Nightly Sky** better!

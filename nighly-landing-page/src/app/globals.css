@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: halloween --default, forest, dracula, dark, black, night,synthwave, sunset, lofi, luxury;
+  logs: true;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
